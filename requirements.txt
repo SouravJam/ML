@@ -1,7 +1,4 @@
 streamlit
 pandas
 os
-pandas_profiling
-streamlit_pandas_profiling
-st_profile_report
 pycaret
